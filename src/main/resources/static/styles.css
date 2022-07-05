@@ -1,0 +1,19 @@
+div.div-100{
+	width: 100vw;
+	background: #ecb613;
+	color: white;	
+	text-align: center;
+	padding: 30px;
+	font-size: 20px;
+	
+}
+
+div.div-status{
+	width: 100vw;
+	background: #b85547;
+	color: white;	
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+	
+}
